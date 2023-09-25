@@ -1,5 +1,5 @@
 # R data serialization files
-.rds
+*.rds
 
 # History files
 .Rhistory
